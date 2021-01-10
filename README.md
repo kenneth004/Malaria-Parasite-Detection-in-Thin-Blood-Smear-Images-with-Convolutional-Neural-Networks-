@@ -15,7 +15,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 
 #### Code
 <pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Malaria-Detection-from-Cell-Images-using-Deep-Learning>Malaria Detection using Deep Learning (GitHub)</a>
+GitHub Link      : <a href=https://github.com/kenneth004/Malaria-Parasite-Detection-in-Thin-Blood-Smear-Images-with-Convolutional-Neural-Networks->Malaria Detection using Deep Learning (GitHub)</a>
 </a>
 Portfolio        : <a : href=https://kennethprince004.wixsite.com/kenneth>Kenneth Prince's Portfolio</a>
 </pre>
